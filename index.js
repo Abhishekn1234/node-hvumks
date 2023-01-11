@@ -1,3 +1,5 @@
+<html>
+<head>
 <script>
 
 // JavaScript program to print Fizz Buzz
@@ -27,4 +29,6 @@
 
 
 </script>
+</head>
+</html>
 
